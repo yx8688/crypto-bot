@@ -30,8 +30,8 @@ SCHEDULE_HOURS = [8, 12, 18, 21]  # 每天4次
 
 # 联盟链接（变现用，可以替换成你自己的推广链接）
 AFFILIATE_LINKS = {
-    "币安": "https://www.binance.com/zh-CN/register?ref=你的邀请码",
-    "OKX": "https://www.okx.com/join/你的邀请码",
+    "币安": "https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=zh-TC&ref=GRO_28502_VHX9H&utm_source=default",
+    "OKX": "https://www.bvhgkzmywxf.com/join/13124950",
 }
 
 # ============================================================
